@@ -1,5 +1,4 @@
-# New Python Project Gist
-
+# New Python Project 2
 
 1. Create dir outside of vscode
 

@@ -1,23 +1,22 @@
 # New Python Project Gist
-## Gist cannot have directories.  Do not commit     /.vscode
 
-1 Create dir outside of vscode
 
-2 create hello.py in vscode
+1. Create dir outside of vscode
 
-3 Choose python 3.8 interpreter
+2. create hello.py in vscode
 
-4 run program
+3. Choose python 3.8 interpreter
 
-5 in terminal pipenv --python 3.8
+4. run program
 
-6 in terminal pipenv lock
+5. in terminal pipenv --python 3.8
 
-7 vscode Terminal / New Terminal to activate env
+6. in terminal pipenv lock
 
-8 vscode reload window
+7. vscode Terminal / New Terminal to activate env
 
-9 pipenv install pylint --dev
+8. vscode reload window
 
-10 terminal git init
+9. pipenv install pylint --dev
 
+10. **CLONE** from github.  nothing else works

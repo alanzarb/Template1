@@ -20,6 +20,7 @@
 10. **CLONE** from github.  nothing else works
 
 ## EXECUTION POLICY
+```
 *** PS C:\WINDOWS\system32> set-executionpolicy remotesigned ***
 
 Execution Policy Change
@@ -35,3 +36,4 @@ MachinePolicy       Undefined
       Process       Undefined
   CurrentUser       Undefined
  LocalMachine    RemoteSigned
+```

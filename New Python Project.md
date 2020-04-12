@@ -21,7 +21,7 @@
 
 ## EXECUTION POLICY
 
- __ PS C:\WINDOWS\system32> set-executionpolicy remotesigned __
+ ** PS C:\WINDOWS\system32> set-executionpolicy remotesigned **
 
 ```
 Execution Policy Change
@@ -29,7 +29,7 @@ The execution policy helps protect you from scripts that you do not trust. Chang
 you to the security risks described in the about_Execution_Policies help topic at
 https:/go.microsoft.com/fwlink/?LinkID=135170. Do you want to change the execution policy?
 ```
-__ PS C:\WINDOWS\system32> get-executionpolicy -list __
+** PS C:\WINDOWS\system32> get-executionpolicy -list **
 ```
         Scope ExecutionPolicy
         ----- ---------------
